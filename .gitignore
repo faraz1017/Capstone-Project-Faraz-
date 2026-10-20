@@ -1,0 +1,8 @@
+# Python cache files
+__pycache__/
+
+# Secrets: never commit API keys
+.env
+
+# SQLite database is rebuilt from sql/schema.sql + sql/seed_data.sql
+*.db

@@ -1,0 +1,8 @@
+Situation:
+Regional operations and finance heads should review our recent performance metrics. Raw total revenue stood at INR 99,860.20, while cleaned total revenue reached INR 97,358.30. The difference of INR 2,501.90 was caused entirely by duplicate, double-submitted orders. Monthly performance showed January 2026 looked like the best month at INR 29,582.10, but only because of bulk outlier orders; without them it is INR 11,637.10. The true peak month is March 2026 at INR 20,318.90.
+
+Complication:
+Return rates varied significantly by payment method, with COD at 44.4%, UPI at 18.9%, and CARD at 14.7%. The highest-risk segment is identified as COD orders in Tier-2 cities, which suffer from an alarming return rate of 54.5%. This concentration of returns in Tier-2 cities threatens regional profitability and strains logistics operations.
+
+Resolution:
+To protect regional margins from high return rates, we recommend concrete actions specifically targeting COD orders in Tier-2 cities. Operations should implement mandatory phone verification before dispatching COD shipments to these locations. Finance and regional teams should also introduce targeted incentives, such as small discounts for customers who switch from COD to prepaid payment methods like UPI or CARD, directly addressing the root cause of these high returns.
